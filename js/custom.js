@@ -1,3 +1,20 @@
+/*global google*/
+
+function initMap() {
+   var options = {
+     zoom:8,
+     center:{lat:54.367288,lng:-5.560291}
+   };
+
+   var map = new
+   google.maps.Map(document.getElementById('map'), options);
+
+   var marker = new google.maps.Marker({
+     position:{lat:52.7245,lng:9.3200},
+     map:map
+   });
+}
+
 /* Show and hide menu */
 
 $(document).ready(function(){

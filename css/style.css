@@ -189,21 +189,18 @@ p {
     color: #A9ADB0;
 }
 
-.header-iphone img {
-    width: 100%;   
-}
+
 a {
     color: #33C1FF;
     text-decoration: none;
 }
 
-/* ========= About Us ============= */
 .choose-us-wraper {
 
     padding-top: 50px;
 }
 
-.about-iphone img {
+.map-here img {
  margin-top: 8px;    
 }
 .choose-us-title {
@@ -265,7 +262,7 @@ a {
 } 
 /* ========= Testimonials ============= */
 .testimonial {
-    background-image: url("../images/testimonial-bg.jpg");
+    background-image: url("../images/background-divers.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -353,7 +350,7 @@ a {
     font-weight: 300;
     line-height: 25px;
 }
-.feature-iphone img {
+.jellyfish img {
     width: 100%;
 }
 .right-feature-item {
@@ -391,21 +388,27 @@ a {
     line-height: 25px;
 }
 
-/* ========= Purchase Now ============= */
-.purchase-now {
-    background-color: #1a1a1a;
-    padding-top: 100px;
-    padding-bottom: 100px;
+/* ========= Cotton Bud Project  ============= */
+
+.cotton-bud {
+    background-image: url("../images/cotton-bud.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+    background-position: 50% 50%;
 }
-.purchase-now p {
+.cotton-bud p {
     color: #dfdfdf;
     font-size: 18px;
     font-weight: 300;
 }
-.btn-pruchase-now,
-.btn-pruchase-now:active,
-.btn-pruchase-now:focus,
-.btn-pruchase-now:visited 
+.btn-cotton-bud,
+.btn-cotton-bud:active,
+.btn-cotton-bud:focus,
+.btn-cotton-bud:visited 
 {
     background-color: #33C1FF;
     border: 1px solid #33C1FF;
@@ -421,11 +424,16 @@ a {
     
 }
 
-.btn-pruchase-now:hover {
+.btn-cotton-bud:hover {
     background-color: #1274B1;
     border-color: #316B90;
 }
 
+.btn-primary {
+    color: #fff;
+    background-color: #8e7734;
+    border-color: #2e6da4;
+}
 /* ========= Counter ============= */
 .counter {
     background-image: url("../images/counter-bg.jpg");
@@ -465,8 +473,8 @@ a {
 }
 
 
-/* ========= Download Now ============= */
-.download-now img {
+/* ========= COTTON-BUD PROJECT ============= */
+.cotton-bud-project img {
     width: 100%;
 }
 .available-on {
