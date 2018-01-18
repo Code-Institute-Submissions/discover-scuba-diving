@@ -8,7 +8,7 @@
 Scuba Diving responsive website using HTML5, CSS3, JavaScript and Bootstrap Framework. This Website was built as a final project for the Code Institute's classroom bootcamp. 
 
 Live Demo
-Follow this link to view deployed version of the web app <----- ADD HEROKU URL ----->
+Follow this link to view deployed version of the web https://github.com/cozmaoanna/discover-scuba-diving 
 
  CODE EDITORS:
 o http://www.cloud9.com/
