@@ -5,67 +5,52 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-Scuba Diving responsive website using HTML5, CSS3, JavaScript and Bootstrap Framework. This Website was built as a final project for the Code Institute's classroom bootcamp. 
+<h2> Discover Scuba Diving </h2> 
 
-Live Demo
-Follow this link to view deployed version of the web https://github.com/cozmaoanna/discover-scuba-diving 
+Scuba Diving responsive website using <strong> HTML5, CSS3, JavaScript and Bootstrap Framework </strong>. This Website was built as a final project for the Code Institute's classroom bootcamp. 
 
- CODE EDITORS:
+<h3> Live Demo </h3>
+Follow this link to view deployed version of the web on https://github.com/cozmaoanna/discover-scuba-diving 
+
+<h3>  CODE EDITORS: </h3>
 o http://www.cloud9.com/
 
- JQUERY:
+<h3> JQUERY: </h3>
 o https://jquery.com/
 
- BOOTSTRAP:
+<h3> BOOTSTRAP: </h3>
 o http://getbootstrap.com/
 
- JQUERY PLUGINS:
+<h3> JQUERY PLUGINS: </h3>
 o BX Slider
 o  http://bxslider.com/examples/carousel-demystified#example1
 
- ICONS:
+<h3> ICONS: </h3>
 o https://fortawesome.github.io/Font-Awesome/
 o http://www.typicons.com/
 
- WEB FONTS:
+<h3>  WEB FONTS: </h3>
 o https://www.google.com/fonts
 o http://fontsquirrel.com/
-o https://typekit.com/
 o https://www.fontspring.com/
 
- TYPOGRAPHY TOOLS:
-o http://www.pearsonified.com/typography/
-o http://www.gridlover.net/try
-
- WEB COLORS:
+<h3> WEB COLORS: </h3>
+o https://www.w3schools.com/
 o https://color.adobe.com/create/color-wheel/
 o http://www.checkmycolours.com/
 o http://paletton.com/
 o http://www.colourlovers.com/
 o http://colrd.com/
 
- GETTING INSPIRATION:
-o http://themeforest.net/
-o http://www.themezilla.com/
-o https://www.behance.net/
-o https://dribbble.com/
-o https://www.thebestdesigns.com/
-o http://siiimple.com/
-o https://onepagelove.com/
-o http://www.cssdsgn.com/
-o https://bestwebsite.gallery/
-o http://styleboost.com/
-o http://www.siteinspire.com/
-o http://www.admiretheweb.com/blog/
 
- Counter
+<h3> Counter </h3>
 o http://imakewebthings.com/waypoints/
 o https://github.com/bfintal/Counter-Up/blob/master/jquery.counterup.min.js
 
- IMAGES OPTIMIZATION:
+<h3> IMAGES OPTIMIZATION: </h3>
 o https://tinypng.com/
 o http://www.imageoptimizer.net/Pages/Home.aspx
 
- VALIDATION:
+<h3> VALIDATION: </h3>
 o https://validator.w3.org/
 
