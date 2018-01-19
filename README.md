@@ -10,7 +10,7 @@
 Scuba Diving responsive website using <strong> HTML5, CSS3, JavaScript and Bootstrap Framework </strong>. This Website was built as a final project for the Code Institute's classroom bootcamp. 
 
 <h3> Live Demo </h3>
-Follow this link to view deployed version of the web on https://github.com/cozmaoanna/discover-scuba-diving 
+Follow this link to view deployed version of the web on https://cozmaoanna.github.io/discover-scuba-diving/ 
 
 <h3>  CODE EDITORS: </h3>
 o http://www.cloud9.com/
@@ -43,7 +43,7 @@ o http://www.colourlovers.com/
 o http://colrd.com/
 
 
-<h3> Counter </h3>
+<h3> COUNTER </h3>
 o http://imakewebthings.com/waypoints/
 o https://github.com/bfintal/Counter-Up/blob/master/jquery.counterup.min.js
 
